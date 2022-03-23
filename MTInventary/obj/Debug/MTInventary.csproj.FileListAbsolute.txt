@@ -1,0 +1,15 @@
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\bin\Debug\MTInventary.exe.config
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\bin\Debug\MTInventary.exe
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\bin\Debug\MTInventary.pdb
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\obj\Debug\MTInventary.csproj.AssemblyReference.cache
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\obj\Debug\MTInventary.Properties.Resources.resources
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\obj\Debug\MTInventary.csproj.GenerateResource.cache
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\obj\Debug\MTInventary.csproj.CoreCompileInputs.cache
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\obj\Debug\MTInventary.exe
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\obj\Debug\MTInventary.pdb
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\bin\Debug\MaterialSkin.dll
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\obj\Debug\MTInventary.csproj.CopyComplete
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\obj\Debug\MTInventary.Home.resources
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\obj\Debug\MTInventary.NuevoProducto.resources
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\obj\Debug\MTInventary.FormPadre.resources
+C:\Users\RODOLFO\Documents\visual studio projects\MTInventary\MTInventary\obj\Debug\MTInventary.NuevoProveedor.resources
